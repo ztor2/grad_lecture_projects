@@ -1,2 +1,1 @@
-# grad_lecture_projects
-<br>small projects from grad school lecture
+- 이 저장소는 서울과학기술대학교 데이터사이언스학과 석사과정 강의에서 진행한 프로젝트들의 코드 및 데이터를 포함하고 있습니다.
