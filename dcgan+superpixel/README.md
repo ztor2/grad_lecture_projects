@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/BZzXPoAyZh.png" width="75%" align="center"> </p>
+<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/3xZFXkbjmR.png" width="75%" align="center"> </p>
+
 
 <DCGAN 파트>
 
