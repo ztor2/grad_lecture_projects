@@ -1,3 +1,7 @@
+<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/gcBbjy78Kx.png" width="70%" align="center"> </p>
+
+
+
 opts.py
 - 구현한 모델(Newton, BFGS, SR1)을 import 할 수 있도록 각 모델을 포함한 파일.
 - L-BFGS는 SciPy로 구현.
