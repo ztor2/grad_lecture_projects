@@ -1,10 +1,10 @@
-#### 프로젝트 세부 내용은 PDF 파일을 참고해주시기 바랍니다.
+- 프로젝트 세부 내용은 PDF 파일(optimization_algorithms_comparison_presentation.pdf)을 참고해주시기 바랍니다.
 
 <p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/gcBbjy78Kx.png" width="70%" align="center"> </p>
 
 #### 코드 파일 설명
-- opts.py: 구현한 모델(Newton, BFGS, SR1)을 import 할 수 있도록 각 모델을 포함한 파일. L-BFGS는 SciPy로 구현.
-- execution.ipynb: 각 모델의 results를 얻기 위한 노트북 파일. test function의 plot 포함.
+- **opts.py:** 구현한 모델(Newton, BFGS, SR1)을 import 할 수 있도록 각 모델을 포함한 파일. L-BFGS는 SciPy로 구현.
+- **execution.ipynb:** 각 모델의 results를 얻기 위한 노트북 파일. test function의 plot 포함.
 
 #### 주요 라이브러리
 - sympy(pip install sympy)
