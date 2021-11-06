@@ -2,8 +2,8 @@
 
 <br>
 
-<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/8HWZwaeY0O.png" width="80%" align="center"> </p>
-<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/PRJI0WobQ3.png" width="80%" align="center"> </p>
+<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/8HWZwaeY0O.png" width="75%" align="center"> </p>
+<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/PRJI0WobQ3.png" width="75%" align="center"> </p>
 
 <br>
 
